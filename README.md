@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&fontAlign=15&fontAlignY=30&color=gradient&text=nywoo&desc=Web%20Front-End%20Developer&descAlignY=60&descAlign=16)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellca225&layout=compact)](https://github.com/bellca225/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellca225&layout=compact)](https://github.com/bellca225/)
 
 
 ## ▎🛠 Tech Stacks
