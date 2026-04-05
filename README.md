@@ -39,6 +39,13 @@
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 
+**developing**
+
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=flat-square&logo=springboot&logoColor=6DB33F)
+![JPA](https://img.shields.io/badge/JPA-000?style=flat-square&logo=hibernate&logoColor=59666C)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-000?style=flat-square&logo=thymeleaf&logoColor=005F0F)
+
 **Styling**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
