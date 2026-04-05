@@ -12,8 +12,7 @@
 <br/>
 
 ```
-디자이너로 시작해 개발자가 됐습니다.
-보이는 것과 작동하는 것, 둘 다 신경 씁니다.
+웹 개발 경력 4년의 개발자입니다.
 ```
 
 <br/>
@@ -24,7 +23,7 @@
 - Vue / Nuxt 중심 실무 4년+, React / Next.js 로 확장 중
 - 웹접근성 진단·컨설팅 경험 (재정정보원, AI 디지털 교과서)
 - 디자인 백그라운드 — Figma, Illustrator, Photoshop
-- 숭실대학교 미디어경영학과 재학 중
+- 숭실대학교 디지털미디어학과 재학 중
 
 <br/>
 
@@ -74,9 +73,3 @@
 | 2021.02 — 2022.06 | (주)에프원소프트 | Fullstack Web Developer |
 
 <br/>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bellca225&show_icons=true&theme=graywhite&hide_border=true&count_private=true&title_color=000&text_color=000&icon_color=000)](https://github.com/bellca225)
-
-</div>
