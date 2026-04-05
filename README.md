@@ -65,7 +65,7 @@
 
 | Period | Company | Role |
 |---|---|---|
-| 2024.10 — | (주)다비치안경체인 | Frontend Developer |
+| 2024.10 — | (주)다비치안경체인 | Fullstack Web Developer |
 | 2022.12 — 2024 | (주)위스마트 | Frontend Developer |
 | 2021.02 — 2022.06 | (주)에프원소프트 | Fullstack Web Developer |
 
