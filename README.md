@@ -36,9 +36,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-000?style=flat-square&logo=nuxt.js&logoColor=00DC82)
 ![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite&logoColor=646CFF)
-
-**Growing**
-
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 
