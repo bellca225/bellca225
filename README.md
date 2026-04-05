@@ -20,7 +20,7 @@
 ## About
 
 - 현재 **(주)다비치안경체인** 프론트엔드 개발 (2024.10~)
-- Vue / Nuxt 중심 실무 4년+, React / Next.js 로 확장 중
+- Vue / Nuxt, React / Next.js 중심 실무 4년+, JAVA spring 및 C# 기반 백엔드 개발 경험 보유
 - 웹접근성 진단·컨설팅 경험 (재정정보원, AI 디지털 교과서)
 - 디자인 백그라운드 — Figma, Illustrator, Photoshop
 - 숭실대학교 디지털미디어학과 재학 중
@@ -56,7 +56,7 @@
 | | Project | Description | Stack |
 |---|---|---|---|
 | → | [nywoo_devlog](https://github.com/bellca225/nywoo_devlog) | 포트폴리오 + 기술 블로그 `in progress` | Next.js · TypeScript · Tailwind |
-| → | [moini-front](https://github.com/bellca225/moini-front) | 소모임 인원 모집 및 관리 서비스 | Vue3 · TypeScript · Vite |
+| → | [moini-front](https://github.com/DAMOA-2024/moini-front) | 소모임 인원 모집 및 관리 서비스 | Vue3 · TypeScript · Vite |
 | → | [codyguid-front-end](https://github.com/bellca225/codyguid-front-end) | 위치 기반 코디 추천 서비스 | React · Redux |
 
 <br/>
