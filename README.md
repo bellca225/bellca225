@@ -15,6 +15,9 @@
 웹 개발 경력 4년의 개발자입니다.
 ```
 
+## Blog
+<a href="blog https://nywoo-devlog.vercel.app">blog https://nywoo-devlog.vercel.app</a>
+
 <br/>
 
 ## About
