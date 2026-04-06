@@ -15,11 +15,6 @@
 웹 개발 경력 5년의 개발자입니다.
 ```
 
-## Blog
-<a href="blog https://nywoo-devlog.vercel.app">https://nywoo-devlog.vercel.app</a>
-
-<br/>
-
 ## About
 
 - 현재 **(주)다비치안경체인** 프론트엔드 개발 (2024.10~)
@@ -27,6 +22,7 @@
 - 웹접근성 진단·컨설팅 경험 (재정정보원, AI 디지털 교과서)
 - 디자인 백그라운드 — Figma, Illustrator, Photoshop
 - 숭실대학교 디지털미디어학과 재학 중
+<a href="blog https://nywoo-devlog.vercel.app" target="_blank">https://nywoo-devlog.vercel.app</a>
 
 <br/>
 
