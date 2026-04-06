@@ -16,7 +16,7 @@
 ```
 
 ## Blog
-<a href="blog https://nywoo-devlog.vercel.app">blog https://nywoo-devlog.vercel.app</a>
+<a href="blog https://nywoo-devlog.vercel.app">https://nywoo-devlog.vercel.app</a>
 
 <br/>
 
